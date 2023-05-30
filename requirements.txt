@@ -2,6 +2,6 @@
 future==0.18.3
 mysql-connector-python==8.0.33
 uncertainties==3.1.7
-sklearn
-pandas
-streamlit
+scikit-learn==1.2.2
+pandas==2.0.2
+streamlit==1.22.0
